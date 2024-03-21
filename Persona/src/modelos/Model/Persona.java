@@ -52,7 +52,7 @@ public class Persona {
      * @param dni
      */
     public void setDni(String dni) {
-        return this.dni;
+        // TODO implement here
     }
 
     /**
@@ -61,7 +61,7 @@ public class Persona {
      */
     public String getDni() {
         // TODO implement here
-        return this.dni;
+        return "";
     }
 
 }
